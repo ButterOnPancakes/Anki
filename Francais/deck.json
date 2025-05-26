@@ -1,0 +1,1210 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "3cd6c90a-3a5b-11f0-aad9-5076af2be247",
+    "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 10
+            },
+            "newGatherPriority": 4,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 15
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Francais",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3568197255527884728,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8792581457391807817,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -7066904010460991323,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "La politique",
+                "<strong>Thèmes :</strong><br>\nL’État / L’autorité / Le pouvoir / Le gouvernement / La démocratie / Le totalitarisme / Le socialisme"
+            ],
+            "guid": "fVR$3KvZ%g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La société",
+                "<strong>Thèmes :</strong><br>\nLa citoyenneté / La sécurité / La violence / Le racisme / Le féminisme / Le travail / La démographie / L’urbanisation / La société de consommation"
+            ],
+            "guid": "Ml;uv@g/W8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L'individu",
+                "<strong>Thèmes :</strong><br>\nL’individualisme / La liberté / La solitude / La famille / L’amour / Le bonheur / La mort"
+            ],
+            "guid": "jsGhZM-4M>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La morale",
+                "<strong>Thèmes :</strong><br>\nLe bien et le mal / L’éthique individuelle / La culpabilité / L’empathie"
+            ],
+            "guid": "F-F-IcHcQa",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La religion",
+                "<strong>Thèmes :</strong><br>\nDieu / Le sacré / La croyance / La liberté de culte / L’athéisme / La laïcité / La tolérance religieuse / Le fanatisme / Le terrorisme religieux"
+            ],
+            "guid": "uOuNLdNfb7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La justice",
+                "<strong>Thèmes :</strong><br>\nLa loi / Le droit / L’égalité et l’équité / Les institutions judiciaires / La répression / La peine de mort"
+            ],
+            "guid": "c|&jgNG#x:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L'économie",
+                "<strong>Thèmes :</strong><br>\nL’argent / La croissance économique / La propriété / Les inégalités sociales / La mondialisation / Le capitalisme"
+            ],
+            "guid": "N,_/!lNZzx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La guerre",
+                "<strong>Thèmes :</strong><br>\nLa guerre et la paix / La diplomatie / La guerre juste / La guerre et le commerce / Les progrès techniques de la guerre"
+            ],
+            "guid": "yOtm|M=<8s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La nature",
+                "<strong>Thèmes :</strong><br>\nL’exploitation de la nature / L’écologie / L’animal / Le réchauffement climatique / Les ressources énergétiques"
+            ],
+            "guid": "wulhY;|1{(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La science et la technique",
+                "<strong>Thèmes :</strong><br>\nLe savoir / La vérité / L’erreur / Le doute / L’expérimentation / Le savant / Les sciences exactes et les sciences humaines / Le progrès technique"
+            ],
+            "guid": "EM;V[|ubWT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La communication et les médias",
+                "<strong>Thèmes :</strong><br>\nLe langage / La rhétorique / La liberté d’expression / L’information / Les fake news / La liberté de la presse / La télévision / Internet et les réseaux sociaux / Le livre"
+            ],
+            "guid": "O_jhy]YB#<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L'Histoire",
+                "<strong>Thèmes :</strong><br>\nLa vérité historique / Le témoignage / La mémoire / L’objectivité des historiens"
+            ],
+            "guid": "ogRLW`+c|!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L'éducation",
+                "<strong>Thèmes :</strong><br>\nL’école / L’instruction / La culture / La transmission de valeurs"
+            ],
+            "guid": "u>]Gn]-6@c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L'art",
+                "<strong>Thèmes :</strong><br>\nL’esthétique / Le beau / L’imitation / L’imagination / L’artiste / L’utilité de l’art / L’engagement"
+            ],
+            "guid": "f_FVlPAvEe",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Banksy citation mort",
+                "On meurt deux fois<br>La premiere fois quand on cesse de respirer,<br>la seconde, un peu plus tard,<br>quand quelq'un dit votre nom pour la derniere fois"
+            ],
+            "guid": "jw2%HPM!GF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Art supériorité",
+                "Peut-on hiérarchiser les arts ?"
+            ],
+            "guid": "J/&~g,PJQO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Art Beau",
+                "L’art se résume-t-il à une quête du beau ?"
+            ],
+            "guid": "G>)%OlUE_>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Art Nature",
+                "L’art imite-t-il la nature ?"
+            ],
+            "guid": "x:G*A!QRcC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Art Travail",
+                "L’art naît-il de l’inspiration ou du travail ?"
+            ],
+            "guid": "MN}_j)lY`i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Art Technique",
+                "L’art se réduit-il à une technique ?"
+            ],
+            "guid": "sb)j*|%$=D",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Art Utile",
+                "L’artiste est-il utile ?"
+            ],
+            "guid": "nEJ`<J;1Lm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Art Engagé",
+                "L’art doit-il être engagé ?"
+            ],
+            "guid": "pgj#P5Ue_i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Fin Histoire",
+                "Y a-t-il une fin de l’Histoire ?"
+            ],
+            "guid": "B^4bO(Z7uc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Histoire Répétition",
+                "L’Histoire se répète-t-elle ?"
+            ],
+            "guid": "M4!hbeGih9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Histoire Science",
+                "L’Histoire peut-elle être une science ?"
+            ],
+            "guid": "izAK/(y|{;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Histoire Passé",
+                "Faut-il faire table rase du passé ?"
+            ],
+            "guid": "i$RjeWC?;Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique devoir de mémoire",
+                "Peut-il y avoir un devoir de mémoire ?"
+            ],
+            "guid": "D>:/}xFk)<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Histoire Indispensable",
+                "L’Histoire est-elle un savoir indispensable ?"
+            ],
+            "guid": "n8jA0IJ([S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Individu mort",
+                "L’individu doit-il avoir peur de la mort ?"
+            ],
+            "guid": "IlN!:~q#~H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique individu bonheur",
+                "Faut-il tout sacrifier au bonheur ?"
+            ],
+            "guid": "iA^|>0KSh}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique individu amour",
+                "L’amour rend-il heureux ?"
+            ],
+            "guid": "d1:UphV`a{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Individu Famille",
+                "La famille emprisonne-t-elle l’individu ?"
+            ],
+            "guid": "yxo,CCyj#c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique individu mal du siècle",
+                "Le salut de l’homme est-il le mal du siècle ?"
+            ],
+            "guid": "OlGu22fsRE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Individu liberté",
+                "L’individu peut-il être libre en société ?"
+            ],
+            "guid": "LguRW/Wm5l",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique individu égoisme",
+                "L’individualisme est-il une forme d’égoïsme ?"
+            ],
+            "guid": "NGoEYK[tS/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Economie But",
+                "L’argent peut-il être un but ?"
+            ],
+            "guid": "d~W%u.-0<P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Economie Propriété",
+                "La propriété, est-ce un vol ?"
+            ],
+            "guid": "j=|hUk,>vl",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Economie Répartition",
+                "Faut-il imposer la répartition équitable des richesses ?"
+            ],
+            "guid": "e-Qb{{mPDG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Economie Mondialisation",
+                "La mondialisation constitue-t-elle une menace ?"
+            ],
+            "guid": "AFK0}]Ga|{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Economie Morale",
+                "Faut-il moraliser le capitalisme ?"
+            ],
+            "guid": "n8q%)d@1JS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Education instruction",
+                "L’école doit-elle instruire ou éduquer ?"
+            ],
+            "guid": "pVTi;MO4c%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Education vie pratique",
+                "L’école prépare-t-elle à la citoyenneté / à la vie pratique ?"
+            ],
+            "guid": "ftbvYgr+L=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Education Pouvoir",
+                "L’instruction suppose-t-elle une relation de pouvoir ?"
+            ],
+            "guid": "h5S7h2y>2;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Education Reproduction sociale",
+                "La réussite scolaire est-elle le fruit d’une reproduction sociale ?"
+            ],
+            "guid": "Hq21?u>g%3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Communication Pouvoir",
+                "Les mots nous donnent-ils un pouvoir ?"
+            ],
+            "guid": "cfRaVwi%Mm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Communication convaincre",
+                "Faut-il séduire pour convaincre ?"
+            ],
+            "guid": "i(fG}Mx/bA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Communication liberté d'expression",
+                "Peut-on tout dire ?"
+            ],
+            "guid": "tSXhBW?EV^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Médias vérités",
+                "Les médias disent-ils la vérité ?"
+            ],
+            "guid": "G3OJc|$$07",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Médias Démocratie",
+                "Les médias sont-ils nécessaires à la démocratie ?"
+            ],
+            "guid": "Rh$-{d0$Uo",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Médias opium",
+                "La télévision est-elle « l’opium du peuple » ?"
+            ],
+            "guid": "LYa.S5OyDm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Réseaux sociaux",
+                "Les réseaux sociaux créent-ils du lien social ?"
+            ],
+            "guid": "DXo{4C{#uJ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Livres Disparition",
+                "Le livre est-il condamné à disparaître ?"
+            ],
+            "guid": "buH^;*l~RZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Guerre Nécéssité",
+                "La guerre est-elle nécessaire ?"
+            ],
+            "guid": "&cv1{:T:A",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Paix Hasard",
+                "La paix n’est-elle qu’un accident de l’Histoire ?"
+            ],
+            "guid": "k>{)SZbnxI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Guerre Justice",
+                "Peut-on parler de guerre juste ?"
+            ],
+            "guid": "IzJbWOi.)U",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Guerre Commerce",
+                "Le commerce est-il le remède à la guerre ?"
+            ],
+            "guid": "Q;~<!ZgzXU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Guerre Technique",
+                "Faut-il craindre les progrès techniques de la guerre ?"
+            ],
+            "guid": "nTTr/DrM/x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Justice Lois",
+                "Toutes les lois sont-elles justes ?"
+            ],
+            "guid": "ERX!CVVDhj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Justice obéissance",
+                "Faut-il obéir à la loi ?"
+            ],
+            "guid": "QwcZrb=rgw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Justice Equité/Egalité",
+                "Chaque individu mérite-t-il la même rétribution ?"
+            ],
+            "guid": "E%Ql.1|rwh",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Justice Punition",
+                "Faut-il punir ?"
+            ],
+            "guid": "AjB_b}D!G}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Justice Peur",
+                "Doit-on craindre la justice ?"
+            ],
+            "guid": "pftJwAojiE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Mal Nature",
+                "Le mal appartient-il à la nature humaine ?"
+            ],
+            "guid": "H4322a+`~&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Morale Ethique",
+                "Peut-on vivre sans éthique ?"
+            ],
+            "guid": "zT%FlBR$:d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Morale Culpabilité",
+                "La culpabilité est-elle un avantage ou un préjudice ?"
+            ],
+            "guid": "C#QFd:tg!%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Moral Indignation",
+                "Faut-il s’indigner ?"
+            ],
+            "guid": "EiL{6Tc3TA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Morale Autres",
+                "Doit-on se mêler des affaires des autres ?"
+            ],
+            "guid": "NAU?xgx!_6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Morale Empathie",
+                "L’empathie est-elle un devoir moral ?"
+            ],
+            "guid": "kbu?/l(9Q1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Nature Domination",
+                "Sommes-nous devenus « maîtres et possesseurs de la nature » (Descartes) ?"
+            ],
+            "guid": "od6%!#DV[J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Nature Disparition",
+                "La nature peut-elle être amenée à disparaître ?"
+            ],
+            "guid": "NYnS$lC8a-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Nature Ecologie",
+                "L’écologie est-elle une science ou une idéologie ?"
+            ],
+            "guid": "qEy!_JR{:Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Nature Homme",
+                "L’homme est-il un animal comme les autres ?"
+            ],
+            "guid": "Nn`mh,K8y0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Nature Droits",
+                "L’animal a-t-il des droits ?"
+            ],
+            "guid": "kB!5r)VZvS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Nature Impératifs",
+                "Les impératifs écologiques sont-ils supérieurs aux impératifs économiques ?"
+            ],
+            "guid": "s/?mK_r331",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Porblématique Etat Commun",
+                "L’État politique est-il l’affaire de tous ?"
+            ],
+            "guid": "bX,j!q]=8R",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Etat raison",
+                "L’État a-t-il toujours raison ?"
+            ],
+            "guid": "qVi6K^ci7S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Etat Autorité",
+                "L’autorité de l’État est-elle contestable ?"
+            ],
+            "guid": "NO@`2qr3u(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Etat Necessité",
+                "L’État est-il nécessaire ?"
+            ],
+            "guid": "lAo@#lV])M",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Politique Force",
+                "L’autorité repose-t-elle sur la force ?"
+            ],
+            "guid": "F]UPyAz7c6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Politique Démocratie",
+                "La démocratie est-elle la tyrannie de la majorité ?"
+            ],
+            "guid": "OKa7J*$Qm)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Politique Totalitarisme",
+                "Le totalitarisme peut-il être justifié ?"
+            ],
+            "guid": "o9|}*VLnXC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Politique Socialisme",
+                "Le socialisme est-il réalisable ?"
+            ],
+            "guid": "Juf~,}abcG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Religion Privé",
+                "La religion est-elle devenue une affaire privée ?"
+            ],
+            "guid": "IH{yS`C2ye",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Religion Illusion",
+                "La religion n’est-elle qu’une illusion ?"
+            ],
+            "guid": "dxg_=%DR?C",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Religion Mort",
+                "Dieu est-il mort ?"
+            ],
+            "guid": "N}sB{AEJi`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Religion Contemporain",
+                "Reste-t-il du sacré dans le monde contemporain ?"
+            ],
+            "guid": "xE_Y]z>1@c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Religion Non-croyance",
+                "Peut-on ne croire en rien ?"
+            ],
+            "guid": "h!72CQ;iiu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Laicité Tolérance",
+                "La laïcité permet-elle la tolérance religieuse ?"
+            ],
+            "guid": "FS1s8OsR&<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Religion Fanatisme",
+                "Toute croyance religieuse contient-elle le germe du fanatisme ?"
+            ],
+            "guid": "s|N1=O?[TX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Science Explication",
+                "La science doit-elle se donner pour tâche de tout expliquer ?"
+            ],
+            "guid": "iIkY|&u)&P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Science Absolue",
+                "La vérité scientifique est-elle absolue ?"
+            ],
+            "guid": "pSv8?xs,rq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Science Erreur",
+                "L’erreur peut-elle être source de vérité ?"
+            ],
+            "guid": "s:wl9`9@H2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Science Doute",
+                "Le savant doit-il chercher à ne plus douter ?"
+            ],
+            "guid": "G%R%46Q9t$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Science Morale",
+                "Le savant doit-il avoir une morale ?"
+            ],
+            "guid": "xIp$(inMg9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Science Humaines",
+                "Les sciences humaines sont-elles inférieures aux sciences exactes ?"
+            ],
+            "guid": "c1Q7duPO9}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Technique Progrès",
+                "Faut-il craindre le progrès technique ?"
+            ],
+            "guid": "jsnP@=v<a<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Technique Accusation",
+                "A-t-on raison d’accuser la technique ?"
+            ],
+            "guid": "c4VfTa*^tw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Technique Nature",
+                "La technique est-elle une dénaturation ?"
+            ],
+            "guid": "f5Ws<tpR$?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Technique Morale",
+                "Doit-on moraliser la recherche technologique ?"
+            ],
+            "guid": "t}Q:F1ex:B",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Société Individus Foule",
+                "La société noie-t-elle les individus dans la foule ?"
+            ],
+            "guid": "r:bP5$*)qQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Société Violence",
+                "Une société sans violence est-elle envisageable ?"
+            ],
+            "guid": "e$=pf8RLqJ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Société Différences",
+                "Faut-il nier la différence entre les individus / les sexes / les origines ethniques ?"
+            ],
+            "guid": "L!0]0sj_F#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Travail Aliénation",
+                "Le travail est-il une aliénation sociale ?"
+            ],
+            "guid": "NA?$ga`14q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Société Démographie",
+                "Faut-il se réjouir de l’expansion démographique ?"
+            ],
+            "guid": "l`[gibvocZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problématique Société Consommation",
+                "Les sociétés modernes sont-elles de simples sociétés de consommation ?"
+            ],
+            "guid": "IiIcB<pQE.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

@@ -2,14 +2,14 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "3cd6c90a-3a5b-11f0-aad9-5076af2be247",
-    "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+    "deck_config_uuid": "2f017b76-3ed0-11f0-84b5-5076af2be247",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "answerAction": 0,
             "autoplay": true,
             "buryInterdayLearning": false,
-            "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+            "crowdanki_uuid": "2f017b76-3ed0-11f0-84b5-5076af2be247",
             "desiredRetention": 0.9,
             "dyn": false,
             "easyDaysPercentages": [
@@ -21,7 +21,27 @@
                 1.0,
                 1.0
             ],
-            "fsrsParams5": [],
+            "fsrsParams5": [
+                0.40255,
+                1.18385,
+                3.173,
+                15.69105,
+                7.1949,
+                0.5345,
+                1.4604,
+                0.0046,
+                1.54575,
+                0.1192,
+                1.01925,
+                1.9395,
+                0.11,
+                0.29605,
+                2.2698,
+                0.2315,
+                2.9898,
+                0.51655,
+                0.6621
+            ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
             "interdayLearningMix": 0,
@@ -35,7 +55,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Francais",
             "new": {
                 "bury": false,
                 "delays": [
@@ -49,7 +69,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 10
+                "perDay": 5
             },
             "newGatherPriority": 4,
             "newMix": 0,
@@ -63,7 +83,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 15
+                "perDay": 5
             },
             "reviewOrder": 0,
             "secondsToShowAnswer": 0.0,
@@ -312,7 +332,9 @@
             ],
             "guid": "J/&~g,PJQO",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -322,7 +344,9 @@
             ],
             "guid": "G>)%OlUE_>",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -332,7 +356,9 @@
             ],
             "guid": "x:G*A!QRcC",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -342,7 +368,9 @@
             ],
             "guid": "MN}_j)lY`i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -352,7 +380,9 @@
             ],
             "guid": "sb)j*|%$=D",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -362,7 +392,9 @@
             ],
             "guid": "nEJ`<J;1Lm",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -372,7 +404,9 @@
             ],
             "guid": "pgj#P5Ue_i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -382,7 +416,9 @@
             ],
             "guid": "B^4bO(Z7uc",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -392,7 +428,9 @@
             ],
             "guid": "M4!hbeGih9",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -402,7 +440,9 @@
             ],
             "guid": "izAK/(y|{;",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -412,7 +452,9 @@
             ],
             "guid": "i$RjeWC?;Z",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -422,7 +464,9 @@
             ],
             "guid": "D>:/}xFk)<",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -432,7 +476,9 @@
             ],
             "guid": "n8jA0IJ([S",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -442,7 +488,9 @@
             ],
             "guid": "IlN!:~q#~H",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -452,7 +500,9 @@
             ],
             "guid": "iA^|>0KSh}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -462,7 +512,9 @@
             ],
             "guid": "d1:UphV`a{",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -472,7 +524,9 @@
             ],
             "guid": "yxo,CCyj#c",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -482,7 +536,9 @@
             ],
             "guid": "OlGu22fsRE",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -492,7 +548,9 @@
             ],
             "guid": "LguRW/Wm5l",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -502,7 +560,9 @@
             ],
             "guid": "NGoEYK[tS/",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -512,7 +572,9 @@
             ],
             "guid": "d~W%u.-0<P",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -522,7 +584,9 @@
             ],
             "guid": "j=|hUk,>vl",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -532,7 +596,9 @@
             ],
             "guid": "e-Qb{{mPDG",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -542,7 +608,9 @@
             ],
             "guid": "AFK0}]Ga|{",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -552,7 +620,9 @@
             ],
             "guid": "n8q%)d@1JS",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -562,7 +632,9 @@
             ],
             "guid": "pVTi;MO4c%",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -572,7 +644,9 @@
             ],
             "guid": "ftbvYgr+L=",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -582,7 +656,9 @@
             ],
             "guid": "h5S7h2y>2;",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -592,7 +668,9 @@
             ],
             "guid": "Hq21?u>g%3",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -602,7 +680,9 @@
             ],
             "guid": "cfRaVwi%Mm",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -612,7 +692,9 @@
             ],
             "guid": "i(fG}Mx/bA",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -622,7 +704,9 @@
             ],
             "guid": "tSXhBW?EV^",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -632,7 +716,9 @@
             ],
             "guid": "G3OJc|$$07",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -642,7 +728,9 @@
             ],
             "guid": "Rh$-{d0$Uo",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -652,7 +740,9 @@
             ],
             "guid": "LYa.S5OyDm",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -662,7 +752,9 @@
             ],
             "guid": "DXo{4C{#uJ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -672,7 +764,9 @@
             ],
             "guid": "buH^;*l~RZ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -682,7 +776,9 @@
             ],
             "guid": "&cv1{:T:A",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -692,7 +788,9 @@
             ],
             "guid": "k>{)SZbnxI",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -702,7 +800,9 @@
             ],
             "guid": "IzJbWOi.)U",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -712,7 +812,9 @@
             ],
             "guid": "Q;~<!ZgzXU",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -722,7 +824,9 @@
             ],
             "guid": "nTTr/DrM/x",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -732,7 +836,9 @@
             ],
             "guid": "ERX!CVVDhj",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -742,7 +848,9 @@
             ],
             "guid": "QwcZrb=rgw",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -752,7 +860,9 @@
             ],
             "guid": "E%Ql.1|rwh",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -762,7 +872,9 @@
             ],
             "guid": "AjB_b}D!G}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -772,7 +884,9 @@
             ],
             "guid": "pftJwAojiE",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -782,7 +896,9 @@
             ],
             "guid": "H4322a+`~&",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -792,7 +908,9 @@
             ],
             "guid": "zT%FlBR$:d",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -802,17 +920,21 @@
             ],
             "guid": "C#QFd:tg!%",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Problématique Moral Indignation",
+                "Problématique Morale Indignation",
                 "Faut-il s’indigner ?"
             ],
             "guid": "EiL{6Tc3TA",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -822,7 +944,9 @@
             ],
             "guid": "NAU?xgx!_6",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -832,7 +956,9 @@
             ],
             "guid": "kbu?/l(9Q1",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -842,7 +968,9 @@
             ],
             "guid": "od6%!#DV[J",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -852,7 +980,9 @@
             ],
             "guid": "NYnS$lC8a-",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -862,7 +992,9 @@
             ],
             "guid": "qEy!_JR{:Q",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -872,7 +1004,9 @@
             ],
             "guid": "Nn`mh,K8y0",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -882,7 +1016,9 @@
             ],
             "guid": "kB!5r)VZvS",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -892,17 +1028,21 @@
             ],
             "guid": "s/?mK_r331",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Porblématique Etat Commun",
+                "Problématique Etat Commun",
                 "L’État politique est-il l’affaire de tous ?"
             ],
             "guid": "bX,j!q]=8R",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -912,7 +1052,9 @@
             ],
             "guid": "qVi6K^ci7S",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -922,7 +1064,9 @@
             ],
             "guid": "NO@`2qr3u(",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -932,7 +1076,9 @@
             ],
             "guid": "lAo@#lV])M",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -942,7 +1088,9 @@
             ],
             "guid": "F]UPyAz7c6",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -952,7 +1100,9 @@
             ],
             "guid": "OKa7J*$Qm)",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -962,7 +1112,9 @@
             ],
             "guid": "o9|}*VLnXC",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -972,7 +1124,9 @@
             ],
             "guid": "Juf~,}abcG",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -982,7 +1136,9 @@
             ],
             "guid": "IH{yS`C2ye",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -992,7 +1148,9 @@
             ],
             "guid": "dxg_=%DR?C",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1002,7 +1160,9 @@
             ],
             "guid": "N}sB{AEJi`",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1012,7 +1172,9 @@
             ],
             "guid": "xE_Y]z>1@c",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1022,7 +1184,9 @@
             ],
             "guid": "h!72CQ;iiu",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1032,7 +1196,9 @@
             ],
             "guid": "FS1s8OsR&<",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1042,7 +1208,9 @@
             ],
             "guid": "s|N1=O?[TX",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1052,7 +1220,9 @@
             ],
             "guid": "iIkY|&u)&P",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1062,7 +1232,9 @@
             ],
             "guid": "pSv8?xs,rq",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1072,7 +1244,9 @@
             ],
             "guid": "s:wl9`9@H2",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1082,7 +1256,9 @@
             ],
             "guid": "G%R%46Q9t$",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1092,7 +1268,9 @@
             ],
             "guid": "xIp$(inMg9",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1102,7 +1280,9 @@
             ],
             "guid": "c1Q7duPO9}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1112,7 +1292,9 @@
             ],
             "guid": "jsnP@=v<a<",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1122,7 +1304,9 @@
             ],
             "guid": "c4VfTa*^tw",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1132,7 +1316,9 @@
             ],
             "guid": "f5Ws<tpR$?",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1142,7 +1328,9 @@
             ],
             "guid": "t}Q:F1ex:B",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1152,7 +1340,9 @@
             ],
             "guid": "r:bP5$*)qQ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1162,7 +1352,9 @@
             ],
             "guid": "e$=pf8RLqJ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1172,7 +1364,9 @@
             ],
             "guid": "L!0]0sj_F#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1182,7 +1376,9 @@
             ],
             "guid": "NA?$ga`14q",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1192,7 +1388,9 @@
             ],
             "guid": "l`[gibvocZ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "problématiques"
+            ]
         },
         {
             "__type__": "Note",
@@ -1201,6 +1399,1138 @@
                 "Les sociétés modernes sont-elles de simples sociétés de consommation ?"
             ],
             "guid": "IiIcB<pQE.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "problématiques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absurde",
+                "1er sens : Qui est contraire à la raison, au sens commun<br>2eme sens : Condition de l'homme dénuée de sens<br>Ethymologie :&nbsp;<i>ab </i>et <i>surdus</i>&nbsp;(sourd) : «&nbsp;qui sonne faux&nbsp;», «&nbsp;dissonant&nbsp;»"
+            ],
+            "guid": "zGkC8,-mG=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aliénation",
+                "1er sens :&nbsp;Transmission volontaire ou légale à autrui de la propriété d'un bien ou d'un droit<br>2eme sens : Situation&nbsp;de quelqu'un qui est dépossédé de ce qui constitue son être essentiel, sa raison d'être, de vivre<br>Etymologie : latin <i>alienus</i>, l’« étranger »<br>Philosophes :<br>&nbsp;- Freud<br>&nbsp;- Hegel<br>&nbsp;- Marx<br>&nbsp;- Rousseau"
+            ],
+            "guid": "KA5eni&E){",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Altermondialisme",
+                "Mouvement social promouvant une autre organisation du monde (Organisation actuelle trop centrée sur l'économie)"
+            ],
+            "guid": "Q:@GAc=/%E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anarchie",
+                "1er sens :&nbsp;État de trouble, de désordre dû à l'absence d'autorité politique, à la carence des lois<br>2eme sens : Idée que les hommes sont naturellement bons et que la vie en société peut s’organiser spontanément sans recours à un chef<br>Etymologie :&nbsp;<i>a-/an-&nbsp;</i>(«&nbsp;sans&nbsp;», «&nbsp;privé de&nbsp;») et <i>arkhê</i> (<em>ἀρχή</em>, « principe&nbsp;», «&nbsp;chef&nbsp;», «&nbsp;commandement&nbsp;»)<br>Philosophes :<br>&nbsp;- Camus<br>&nbsp;- Proudhon<br>&nbsp;- Stirner"
+            ],
+            "guid": "lkLlf%Tn4b",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anthropologie",
+                "1er sens :&nbsp;Étude de l'homme et des groupes humains<br>2eme sens :&nbsp;Théorie philosophique qui met l'homme au centre de ses préoccupations<br>Etymologie :&nbsp;grec ancien <i>anthrôpos</i>, homme, humain, et le suffixe <i>logos</i>, science, discours, parole"
+            ],
+            "guid": "L<X.<ZaFT|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anticléricalisme",
+                "Système opposé aux tendances du clergé promouvant la séparation du religieux et du profane<br>Postule la liberté de conscience individuelle"
+            ],
+            "guid": "D/ldo%DO&6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Antihéros",
+                "1er sens :&nbsp;Personnage d'une œuvre littéraire aux caractéristiques contraires à celles du héros traditionnel<br>2eme sens :&nbsp;Personnage du nouveau roman sans identité ni psychologie"
+            ],
+            "guid": "CCH^J99w#T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Antisémitisme",
+                "Doctrine ou attitude systématique de ceux qui sont hostiles aux juifs et proposent contre eux des mesures discriminatoires"
+            ],
+            "guid": "j3^wwNqeho",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apartheid",
+                "1er sens :&nbsp;Discrimination, voire exclusion, d’une partie de la population, qui ne \ndispose pas des mêmes droits, lieux d’habitation ou emplois que le reste\n de la collectivité<br><br>2eme sens :&nbsp;Régime de ségrégation systématique des populations de couleur appliqué en Afrique du Sud entre 1913 et 1991<br><br>Etymologie : afrikaans signifiant <i>séparation</i>"
+            ],
+            "guid": "hRZZ^=VNz-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Art",
+                "Ensemble de procédés visant un certain résultat pratique ou esthétique<br><br>Point de vue de sa <i>création</i>&nbsp;: <br>&nbsp;- L’art dépend-t-il de <i>règles</i> ou d’un <i>génie</i> créateur ?<br>Point de vue de sa <i>réception</i>&nbsp;:&nbsp;<br>&nbsp;- Peut-on normer le jugement de <i>goût</i>&nbsp;?<br>&nbsp;- L’<i>œuvre </i>d’art peut-elle élever l’âme, la spiritualiser ?<br><br>Etymologie :&nbsp;<br><em>&nbsp;- «&nbsp;teknè&nbsp;»</em>&nbsp;désigne la compétence /&nbsp;<em>«&nbsp;mimesis&nbsp;» </em>arts censés imiter la nature"
+            ],
+            "guid": "Fh6[LE?[=Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Athéisme",
+                "Doctrine qui nie l'existence de Dieu"
+            ],
+            "guid": "b4r9Qd%wY-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bioéthique",
+                "Étude des problèmes moraux soulevés par la recherche biologique, médicale ou génétique et certaines de ses applications"
+            ],
+            "guid": "v+goJK9Td@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bonapartisme",
+                "Forme de gouvernement autoritaire et plébiscitaire, ratifiée par le suffrage universel"
+            ],
+            "guid": "woQmksYlDR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bourgeoisie",
+                "Catégorie sociale comprenant les personnes jouissant d'une situation relativement aisée et qui n'exercent pas un métier manuel<br><br>Classe sociale qui possède les moyens de production à \nl'époque du mode de production capitaliste et qui, de ce fait, est la \nclasse dominante dans la société (Marxiste)"
+            ],
+            "guid": "t4,s}n,[h=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Capitalisme",
+                "Système économique dont les traits essentiels sont l'importance des capitaux techniques et la domination du capital financier"
+            ],
+            "guid": "LgrBk_?iC(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Catharsis",
+                "Pour Aristote, effet de «&nbsp;purification&nbsp;» produit sur les spectateurs par une représentation dramatique<br><br>Etymologie : grec, signifie « purgation » et « purification »"
+            ],
+            "guid": "Hs0DI:ZVy4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Catholicisme",
+                "Manière de comprendre et de suivre les préceptes de la religion catholique"
+            ],
+            "guid": "v1$^Bva-o*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Censure",
+                "Limitation de la liberté d'expression par un pouvoir sur des livres, médias ou diverses œuvres d'art, avant ou après leur diffusion au public<br><br>Etymologie :&nbsp;<i>censere</i>,&nbsp;valeur religieuse&nbsp;: «&nbsp;déclarer solennellement et selon les formes&nbsp;»<br><i>censor</i> et <i>censura</i>&nbsp;:&nbsp;«&nbsp;juger, évaluer&nbsp;»"
+            ],
+            "guid": "ugqHCxwl2b",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Christianisme",
+                "Ensemble des religions fondées sur la personne et les écrits rapportant les paroles et la pensée de Jésus-Christ<br><br>Philosophie Chrétienne :&nbsp;<br>&nbsp;- Doctrine de la création <i>ex nihilo</i>&nbsp;(à partir de rien)<br>&nbsp;- Affirmation de la liberté humaine et la conviction que le mal est le mauvais usage de cette liberté<br>&nbsp;- Affirmation que l'ame&nbsp;humaine est créée par Dieu au moment de la conception et qu’elle est conservée éternellement par lui après la mort physique"
+            ],
+            "guid": "K~17W1s=XS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Civilisation",
+                "Ensemble des caractères propres à la vie intellectuelle, artistique, morale, sociale et matérielle d'un pays ou d'une société"
+            ],
+            "guid": "Hl>Px~)/T+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Communautarisme",
+                "1er sens : Tendance d’une minorité à s’isoler du reste de la société et à revendiquer des droits particuliers<br><br>2eme sens : Philosophie fondée sur la conviction que l'identité sociale&nbsp;et la personnalité d'une personne sont largement façonnées par les \nrelations communautaires"
+            ],
+            "guid": "Gz@vzh4&uL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Communisme",
+                "Formation économique et sociale caractérisée par la mise en commun des \nmoyens de production et d'échange, par la répartition des biens produits\n suivant les besoins de chacun, par la suppression des classes sociales \net l'extinction de l'État qui devient l'administration des choses"
+            ],
+            "guid": "m=$NuYKuMd",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Conscience",
+                "Conscience <i>spontanée</i> ou <i>immédiate</i>&nbsp;: tournée vers le monde extérieur<br>Conscience <i>réfléchie</i>&nbsp;: le Moi fait retour sur lui-même, se prend pour objet tout en se distinguant de ses états psychiques<br>Conscience&nbsp;<i>morale</i>&nbsp;: Source du jugement pratique ou encore ce par quoi le sujet peut distinguer le Bien et le Mal<br><br>Etymologie :&nbsp;<i>cum-, «&nbsp;</i>avec », et <i>scire</i>, « savoir »<br><br>Philosophes :&nbsp;<br>&nbsp;- Descartes<br>&nbsp;- Freud<br>&nbsp;- Hegel<br>&nbsp;- Leibniz"
+            ],
+            "guid": "nbB8;xQYm)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Conservatisme",
+                "Philosophie politique en faveur des valeurs traditionnelles"
+            ],
+            "guid": "tQcHxF[pJu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Créationnisme",
+                "Théorie religieuse de l'origine des espèces animales et végétales selon laquelle \nchacune de celles-ci serait apparue brusquement par la volonté divine"
+            ],
+            "guid": "D_naio>fhI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cosmopolitisme",
+                "Conscience d'appartenir à l'ensemble de l'Humanité et non pas à sa seule partie d'origine<br><br>Philosophe : Diogène de Sinope"
+            ],
+            "guid": "z>B:!4vDB-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Croissance",
+                "Développement, extension, augmentation de quelque chose<br><br>(Pas trouvé de définition en rapport avec la philo)"
+            ],
+            "guid": "oKOI+yG!:0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cubisme",
+                "Mouvement artistique du début du 20e, représentant&nbsp;des objets analysés, décomposés et réassemblés en une composition, comme si l'artiste multipliait les différents points de vue"
+            ],
+            "guid": "jcMm)S|*0]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dadaïsme",
+                "Mouvement intellectuel, littéraire et artistique ponctuel du début du XX<sup>e</sup>&nbsp;siècle,\n qui se caractérise par une remise en cause de toutes les conventions et\n contraintes idéologiques, esthétiques et politiques"
+            ],
+            "guid": "MlR%F;WOX&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Darwinisme",
+                "Théorie d'après laquelle les espèces évoluent selon les lois de la sélection naturelle"
+            ],
+            "guid": "P-~J2~JnBV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Décolonisation",
+                "Processus d'émancipation des territoires coloniaux vis-à-vis des métropoles colonisatrices<sup><a href=\"https://fr.wikipedia.org/wiki/D%C3%A9colonisation#cite_note-1\"></a></sup>"
+            ],
+            "guid": "J&A}V~x4x3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Démagogie",
+                "1er sens : Autorité morale exercée par une ou plusieurs personnes sur les détenteurs réels ou supposés du pouvoir<br><br>Sens actuel : Politique par laquelle on flatte les masses pour gagner et exploiter leur adhésion"
+            ],
+            "guid": "wG[[M3QSQk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Démocratie",
+                "Forme de gouvernement dans laquelle la souveraineté appartient au peuple, qui l'exerce directement ou par l'intermédiaire de représentants élus<br><br>Etymologie :&nbsp;<i>demos</i> (peuple) et <i>kratos</i> (pouvoir)"
+            ],
+            "guid": "[H@+@mlMj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Déterminisme",
+                "Théorie pilosophique&nbsp;selon laquelle chaque événement, en vertu du principe de causalité, est complètement déterminé par les événements passés conformément aux lois de la nature"
+            ],
+            "guid": "EC/`R+!I,I",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ecologie",
+                "Science ayant pour objet les relations des êtres vivants avec leur environnement, ainsi qu'avec les \nautres êtres vivants"
+            ],
+            "guid": "q]mJ;Y5kru",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Egalitarisme",
+                "Doctrine prônant l'égalité des citoyens en matière politique, économique et sociale"
+            ],
+            "guid": "IE+6qf~d37",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Empirisme",
+                "Théorie philosophique selon laquelle la connaissance que nous avons des choses dérive de l'expérience"
+            ],
+            "guid": "jkubR..k5=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Esthétique",
+                "Discipline ayant pour objet les perceptions, les sens, le beau, ou exclusivement ce qui se rapporte au concept de l'art"
+            ],
+            "guid": "kQsP(8/jG(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Etatisme",
+                "Doctrine préconisant l'intervention de l'État dans les domaines économique et social"
+            ],
+            "guid": "ia3%E|rh9)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ethique",
+                "Partie de la philosophie qui traite des problèmes fondamentaux de la morale"
+            ],
+            "guid": "EW}Nl8IUC,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ethnocentrisme",
+                "Concept renvoyant au fait&nbsp;de vivre sa propre culture comme si elle était la norme universelle, et \nde la prendre comme un cadre de référence permettant de juger d'autres \ncultures, pratiques, comportements, croyances, sans considération pour \nles normes qui ont cours dans ces cultures étrangères"
+            ],
+            "guid": "Oa}tZ!I6@v",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ethnologie",
+                "Etude comparative et explicative de l'ensemble des caractères culturels&nbsp;des groupes humains<sup><a href=\"https://fr.wikipedia.org/wiki/Ethnologie#cite_note-1\"></a></sup>"
+            ],
+            "guid": "I>vCLBH-Af",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Evolutionnisme",
+                "Théorie sociale qui postule qu'il est possible de générer des lois explicatives de l'évolution des sociétés"
+            ],
+            "guid": "zP[(uKhfoa",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Existentialisme",
+                "Doctrine philosophique qui considère que l'être humain&nbsp;forme l'essence&nbsp;de sa vie par ses propres actions"
+            ],
+            "guid": "Lai04&G?GP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fascisme",
+                "Système politique autoritaire qui associe populisme, nationalisme et totalitarisme&nbsp;au nom d'un idéal collectif suprême"
+            ],
+            "guid": "IRsUiQuro$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fatalisme",
+                "Doctrine qui considère tous les événements comme irrévocablement fixés à l'avance par une cause unique et surnaturelle<br><br>Etymologie : latin <i>fatum</i> :&nbsp;«&nbsp;le destin&nbsp;»"
+            ],
+            "guid": "p<oq}d[*zf",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Féminisme",
+                "Mouvement social dont l’objet est l’émancipation des femmes, l’extension\n de leurs droits et de leur rôle dans la société afin d’obtenir un \nstatut et une reconnaissance qui mettent fin à la domination masculine<br><br>Philosophes :&nbsp;<br>&nbsp;- Badinter<br>&nbsp;- De Beauvoir"
+            ],
+            "guid": "H>4Th(QQ>*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fondamentalisme",
+                "Adhésion à des doctrines radicales et extrémistes, généralement religieuses, mais aussi séculières ou même antireligieuses"
+            ],
+            "guid": "TO{c2vcR2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fordisme",
+                "Modèle d'organisation et de développement d'entreprise selon plusieurs principes :\n<br><ul><li>Séparation entre conception et réalisation et séparation des tâches (du travail à la chaîne)\n</li><li>Production en grandes séries, et à des coûts bas, à l'aide de pièces interchangeables</li><li>Augmentation du salaire des ouvriers afin d'augmenter la consommation</li></ul>"
+            ],
+            "guid": "v*}rf3eCF^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gauchisme",
+                "Terme employé, souvent de manière péjorative, pour qualifier l'action politique d'individus ou d'organisations de gauche, d'extrême gauche ou de gauche radicale"
+            ],
+            "guid": "yPpSA!m*iF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gaullisme",
+                "Idélologie prônant l'importance de la France dans le monde occidental, et la nécessité d'être unifiée&nbsp;par un chef, un État ou un projet, et articulée par des institutions politiques, économiques et sociales adéquates pour éviter les luttes internes"
+            ],
+            "guid": "K_t7=X/Il]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Genre",
+                "Concept qui renvoie à la dimension identitaire, historique, politique, sociale, culturelle et symbolique des identités sexuées"
+            ],
+            "guid": "I`ph![,@9P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hédonisme",
+                "Système philosophique qui fait du plaisir le but de la vie<br><br>Philosophe(s) : Aristippe de Cyrène<br><br>Etymologie : grec <i>hêdonê, </i>plaisir"
+            ],
+            "guid": "pv4+K+1]NW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Herméneutique",
+                "Idée selon laquelle tout rapport au monde est \ninterprétatif : toute interprétation est relative à une situation \nhumaine historique depuis laquelle elle est produite<br><br>Il n'y a alors&nbsp; jamais de point zéro de la connaissance, puisque toute interprétation \nest interprétation de quelque chose qui la précède et depuis une \nsituation qui la précède également<br><br>Philosophes<br>&nbsp;-&nbsp;Heidegger (Attention nazi)<br>&nbsp;-&nbsp;Schleiermacher<br><br>Etymologie : grec <i>hermeneutike teknè</i>,&nbsp;signifie «&nbsp;art d’interpréter&nbsp;»"
+            ],
+            "guid": "jxCLt^Rj*4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Humanisme",
+                "Philosophie qui place l'homme et les valeurs humaines au-dessus de toutes les autres valeurs<br><br>Philosophe(s) :&nbsp;<br>&nbsp;-&nbsp;Érasme"
+            ],
+            "guid": "Mb&u|AyI7I",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inconscient",
+                "Agglomérat de pensées et de pulsions inaccessibles à l’état de conscience, pouvant toutefois influer sur notre comportement<br><br>Philosophe(s) : <br>&nbsp;- Freud<br>&nbsp;- Leibniz&nbsp;"
+            ],
+            "guid": "yMY?08/Y19",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Idéologie",
+                "Système prédéfini d'idées, appelées aussi catégories, à partir desquelles la réalité est analysée, par opposition à une connaissance intuitive de la réalité sensible perçue<br><br>Différentes dimensions :<br>&nbsp;- cognitive : dogmes, croyances (« c'est ainsi »)<br>&nbsp;- morale : jugements, valeurs (« c'est bien ; c'est mal »)<br>&nbsp;- normative : normes (« il faut ; on doit »)"
+            ],
+            "guid": "g;NY!P3}fx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ingérence",
+                "Intervention d'un État dans la politique intérieure d'un autre État"
+            ],
+            "guid": "j*pvfpH>X",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Interventionnisme",
+                "Doctrine, attitude, politique préconisant une intervention des pouvoirs publics dans la vie économique d'un pays"
+            ],
+            "guid": "m3a3]nnS-$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Islam",
+                "Religion abrahamique qui s'appuie sur le dogme du monothéisme absolu et qui prend sa source dans le Coran, tenu, par les adhérents de l'islam, pour la parole de Dieu"
+            ],
+            "guid": "Qib)pKb8e5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Islamisme",
+                "Courant politique de l'islam faisant de la charia la source unique du droit et du fonctionnement de la société dans l'objectif d'instaurer un État musulman régi par les religieux"
+            ],
+            "guid": "nHot214!X4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Judaïsme",
+                "Forme de vie religieuse dont la caractéristique essentielle est la croyance à un Être suprême, auteur — de quelque manière qu'on conçoive son action — de l'univers qu'il gouverne par sa providence"
+            ],
+            "guid": "h&^_r]lm0E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Laïcité",
+                "Principe de séparation, dans l'État, de la société civile et de la société religieuse et d'impartialité ou de neutralité de l'État à l'égard des confessions religieuses"
+            ],
+            "guid": "I{j1I:*g83",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Laxisme",
+                "Consiste à soutenir qu'en cas de doute concernant la moralité d'une \naction, il est permis de suivre une opinion dont la probabilité n'est \nque mince, et ceci à l'encontre des normes morales établies"
+            ],
+            "guid": "E^QPy:}B*h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Légalisme",
+                "Conviction que la loi, bonne ou mauvaise, doit être respectée : le légaliste pense qu’il y a un temps pour critiquer et un temps pour accepter le résultat, qu’il plaise ou non"
+            ],
+            "guid": "yAQj@nG:Xx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Libéralisme",
+                "Courant de pensée qui prône la défense des droits individuels, subjectifs, au nom d'une vision fondée sur l'individu et la coopération volontaire entre les humains"
+            ],
+            "guid": "Fb8/+a=}o{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Linguistique",
+                "Discipline scientifique s'intéressant à l'étude du langage. Elle n'est pas prescriptive mais descriptive"
+            ],
+            "guid": "bNG-xc_28u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Marxisme",
+                "Courant de pensée reposant sur la participation au mouvement réel de la lutte des classes, afin de parvenir à une société basée sur la propriété collective et démocratique des moyens de production"
+            ],
+            "guid": "PTKs1?+2Rf",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mécanisme",
+                "Conception matérialiste qui aborde l'ensemble des phénomènes suivant le modèle des liens de cause à effet"
+            ],
+            "guid": "f*hZ~)U4|P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Média",
+                "Moyen de distribution, de diffusion ou de communication \ninterpersonnelle, de masse ou de groupe, d'œuvres, de documents, ou de \nmessages écrits, visuels, sonores ou audiovisuels"
+            ],
+            "guid": "wHT~r?ADfL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Méritocratie",
+                "Principe ou idéal d'organisation sociale qui tend à promouvoir les individus en fonction de leur supposé mérite et non d'une origine sociale, de la richesse ou des relations individuelles"
+            ],
+            "guid": "BOl#uz>9^t",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Monarchie",
+                "Régime politique où l'unité du pouvoir est symbolisée par une seule personne, appelée « monarque » et n'est pas nécessairement une royauté"
+            ],
+            "guid": "jUeJugsKWK",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Morale",
+                "Discipline pratique qui dit ce qui est bien ou mal en matière de conduite. La morale est en général prescriptive et normative<br><br>Philosophes :&nbsp;<br>&nbsp;- Socrate<br>&nbsp;- Descartes<br>&nbsp;- Kant"
+            ],
+            "guid": "Bxkw@ez~l,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Moralisme",
+                "Système philosophique qui tend à imposer à l'homme une finalité morale à toutes ses actions"
+            ],
+            "guid": "O[#v|jLeT^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nationalisme",
+                "Principe politique tendant à légitimer l’existence d’un État-nation pour chaque peuple, défini par des caractéristiques propres et communes à ses membres, comme une langue, des traditions historiques et culturelles ou des valeurs politiques"
+            ],
+            "guid": "v-whXju9m}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Naturalisme",
+                "Conception d'après laquelle tout ce qui existe peut être expliqué par des causes ou des principes naturels"
+            ],
+            "guid": "oZn{IPSQD)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nature",
+                "Plusieurs sens :&nbsp;<br>&nbsp;- Composition et la matière d'une chose<br>&nbsp;- Origine et le devenir d'une chose<br>&nbsp;- Ensemble du réel indépendant de la culture humaine<br>&nbsp;- Ensemble des systèmes et des phénomènes naturels"
+            ],
+            "guid": "z{x`p#y5++",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Négationnisme",
+                "Déni de certains génocides ou crimes majeurs, malgré la présence de preuves flagrantes rapportées par les historiens<br><br>Ex : Existence de la Shoah"
+            ],
+            "guid": "b/,Wi-6YP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Névrose",
+                "Expression symbolique d'un conflit psychique ainsi qu'un compromis entre la pulsion et la défense qui s'y oppose"
+            ],
+            "guid": "GANbaByJ<h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paradoxe",
+                "Idée ou une proposition à première vue surprenante ou choquante, c'est-à-dire allant contre le sens commun"
+            ],
+            "guid": "AEn3U/>$@O",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paranoïa",
+                "Trouble mental manifesté par des difficultés relationnelles, des troubles du comportement et un sentiment de persécution pouvant aller jusqu'à un point d'irrationalité et de délire"
+            ],
+            "guid": "M{O;rn6,M8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Parité",
+                "Egalité de la représentation de deux parties ou plus dans une assemblée, une commission, ou un corps social"
+            ],
+            "guid": "x&!.e<OnE}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Performatif",
+                "Enoncé qui contribue à l'accomplissement d'une action<br><br>&nbsp;- Constatifs vrais ou faux : représentent le monde\n comme étant d'une certaine façon<br>&nbsp;- Performatifs ni vrais ni faux : fonction est d'effectuer certaines actions<br><br>(introduit par le&nbsp;philosophe britannique J.&nbsp;L.&nbsp;Austin)"
+            ],
+            "guid": "DxdPc!sc1(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Peuple",
+                "1er sens (Péj.) : Partie «&nbsp;inférieure&nbsp;» de la société<br><br>Psychologie des peuples : Étude des caractéristiques psychologiques supposées des peuples en vue d'expliquer leurs institutions et leur culture"
+            ],
+            "guid": "F=kGWrqV5I",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Phobie",
+                "Crainte angoissante et injustifiée d'une situation, d'un objet ou de l'accomplissement d'une action"
+            ],
+            "guid": "BK0EJ0NB0Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Populisme",
+                "Littérature :&nbsp;Tendance artistique et en particulier littéraire qui s'attache à l'expression de la vie et des sentiments des milieux populaires<br><br>Politique : Approche politique qui a tendance à opposer le peuple aux élites politiques, économiques, médiatiques, culturelles et/ou intellectuelles, en se réclamant du premier&nbsp;"
+            ],
+            "guid": "CL=UYU,t1|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Postmodernisme",
+                "Courant philosophique de la seconde moitié du xx<sup>e</sup>&nbsp;s. pour lequel l'idée d'un progrès de la raison est à remettre en cause<br><br>Exemple :&nbsp;<br>&nbsp;- Progrès / Shoah (Georges Steiner, Hannah \nArendt)<br>&nbsp;- Culte de la technique / Exigences de \nl'écologie (Heidegger)<br>&nbsp;- Egalité / Droit à la \ndifférence <br>&nbsp;- Universel / Diversité des peuples et des \ncultures (influence de Claude Lévi-Strauss et de la pensée \nethnologique) (jsp qui c'est, tiré du larousse)"
+            ],
+            "guid": "tVd~Cj*24W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Principe de réalité",
+                "S'oppose au principe de plaisir,&nbsp;impose la renonciation au plaisir à cause des conséquences fâcheuses qui\n en résulteraient pour l'individu, du fait des interdits socioculturels (Freud)"
+            ],
+            "guid": "M?yqKWu=sq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Progressisme",
+                "Philosophie politique favorable aux réformes sociales, fondée sur l'idée que les avancées dans les domaines de la science, de la technologie, du développement économique et de l'organisation sociale sont essentielles à l'amélioration de la condition humaine"
+            ],
+            "guid": "uq&<]&e(UP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Psychanalyse",
+                "Méthode d'investigation psychologique visant à élucider la signification inconsciente des conduites et dont le fondement se trouve dans la théorie de la vie psychique formulée par Freud"
+            ],
+            "guid": "k,Q#N<Hza#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Psychose",
+                "Altération morbide de l'état mental désignant une perte du sens de la réalité que le malade ne reconnaît pas"
+            ],
+            "guid": "JC+4#NU(vO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pulsion",
+                "Force psychique qui fait tendre la personne vers un but"
+            ],
+            "guid": "x:k@cr-o4_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Racisme",
+                "Idéologie présupposant la croyance dans la notion scientifiquement infondée de race, et impliquant une vision du monde déterministe et discriminatoire qui a pour conséquence une négation de l'égalité et de la liberté humaines"
+            ],
+            "guid": "DBQsTX;5aF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Religion",
+                "Double aspect :&nbsp;<br>&nbsp;- Piété qui relie les hommes à la \ndivinité (Foi<br>&nbsp;- Pratique rituelle institutionnalisée (Institutions)"
+            ],
+            "guid": "K0UXjyMZOi",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "République",
+                "Organisation de la vie en commun fondée sur la souveraineté de la loi, \nédictée en vue de l'intérêt général, et non pas en vue de la \nsatisfaction de quelques-uns<br><br>Etymologie : latin res publica, « chose publique »"
+            ],
+            "guid": "d_,hA-6cEG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Résilience",
+                "Phénomène psychologique qui consiste, pour un individu affecté par un traumatisme, à prendre acte de l'événement traumatique de manière à ne pas, ou plus, vivre dans le malheur et à se reconstruire d'une façon socialement acceptable"
+            ],
+            "guid": "QX<NllG:<%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Révisionnisme",
+                "Histoire : Position idéologique qui minimise le génocide des juifs par l'Allemagne nazie et qui prétend réviser l'histoire sur ce point<br><br>Pensée socialiste : nom donné au réformisme de Bernstein qui \npense qu'il faut réviser les thèses de Marx en fonction de l'évolution \npolitique, économique et sociale"
+            ],
+            "guid": "Lt_{Ve@%{F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Scepticisme",
+                "Courant de la philosophie antique qui s'est attaché à montrer de façon méthodique que l'esprit humain ne saurait atteindre une quelconque vérité, et qu'il convient donc de suspendre son jugement si l'on veut parvenir à l'ataraxie<br><br>Ataraxie :&nbsp;notion qui désigne la tranquillité de l’âme résultant de la modération et de l’harmonie de l'existence"
+            ],
+            "guid": "d9R++JFqW?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Socialisme",
+                "1er sens : Théorie visant à transformer l'organisation sociale dans un but de \njustice entre les hommes au plan du travail, de la rétribution, de \nl'éducation, du logement, etc<br><br>2eme sens : (Communisme) Primat de la société sur l'individu, par opposition initiale à «&nbsp;individualisme&nbsp;»<br><br>(Pas certain que ce soit bien formulé, ne pas hésiter à le changer)"
+            ],
+            "guid": "Ojo_$%UA%E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sociologie",
+                "Discipline des sciences sociales qui a pour objectif de rechercher des explications et des compréhensions typiquement sociales à des phénomènes observables"
+            ],
+            "guid": "q$9Q>)0Tad",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Spécisme",
+                "Considération que l'espèce à laquelle un animal appartient est un critère pertinent pour établir les droits qu'on doit lui accorder ou l’égard porté à ses intérêts"
+            ],
+            "guid": "z|>IAfQ5jg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stakhanovisme",
+                "Campagne de propagande soviétique en URSS faisant l'apologie d'un travailleur très productif et dévoué à son travail<br><br>Provient du nom du mineur « de choc » Alekseï Stakhanov qui, dans la nuit du 30 au 31 août 1935, aurait extrait 102 tonnes de charbon en six heures, soit environ quatorze fois le quota demandé à chaque mineur"
+            ],
+            "guid": "r]c,<_kZ]x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Structuralisme",
+                "Courant philosophique qui part des relations pour penser les éléments constitutifs d’un domaine d’étude donné :&nbsp;<br>Pense les sujets et les objets non pas à partir de leur supposée nature, mais à partir des liens qui les caractérisent"
+            ],
+            "guid": "PU,SGIP.No",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sublimation",
+                "Psychanalyse : processus complexe par lequel la pulsion est déviée de son but sexuel pour se mettre à la disposition d'activités culturelles socialement valorisées"
+            ],
+            "guid": "nUq(ggX9e7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Surmoi",
+                "Instance de la seconde topique de Freud ayant une fonction de répression, acquise au cours de l'éducation"
+            ],
+            "guid": "E~{&n65o+:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Surréalisme",
+                "« Automatisme psychique pur, par lequel on se propose d'exprimer, soit \nverbalement, soit par écrit, soit de toute autre manière, le \nfonctionnement réel de la pensée. Dictée de la pensée, en l'absence de \ntout contrôle exercé par la raison, en dehors de toute préoccupation \nesthétique ou morale » (André Breton)"
+            ],
+            "guid": "JksB>J1f?e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tabou",
+                "Interdit d'origine religieuse qui structure en profondeur les échanges d'un individu à son groupe, qui préserve l'identité culturelle collective et l'organisation sociale"
+            ],
+            "guid": "xP3o>wpgLr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Taylorisme",
+                "<div>Forme d'organisation scientifique du travail concues afin de maximiser le rendement, consistant en :\n</div>&nbsp;- Analyse détaillée et rigoureuse des modes et techniques de production\n (gestes, rythmes, cadences,&nbsp;etc.)&nbsp;;<br>&nbsp;- Etablissement de la «&nbsp;meilleure façon&nbsp;» de produire (définition, délimitation et séquençage des tâches)<br>&nbsp;- Fixation de conditions de rémunération plus objectives et motivantes"
+            ],
+            "guid": "v5cM7p9)em",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tiers-Mondisme",
+                "Acception large : Courant de sympathie vis-à-vis des pays du tiers-monde, ainsi que le soutien, sous diverses formes, à leur développement économique et politique<br><br>Sens plus restreint et polémique : Courant d'idées qui attribue la responsabilité de la pauvreté du tiers-monde aux interventions des pays occidentaux"
+            ],
+            "guid": "LuMrx8a|DL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Totalitarisme",
+                "Eégime ou système politique où n’existe plus qu’un parti unique, n'admettant aucune opposition, et où l'État tend à exercer une mainmise sur la totalité des activités de la société et des individus"
+            ],
+            "guid": "NgT;?1REzn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tyrannie",
+                "Régime politique fondé sur l'usurpation et conduit par un chef doté d'un\n pouvoir absolu, totalement émancipé du contrôle par la loi<br><br>Tyrannie de la majorité : une conséquence indésirable de la démocratie par laquelle une majorité démocratique peut imposer ses volontés et ses préférences"
+            ],
+            "guid": "nSil5:3MnM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Uchronie",
+                "Genre littéraire qui repose sur le principe de la réécriture de l’Histoire à partir de la modification du passé<br><br>L'’auteur prend comme point de départ une situation \nhistorique existante, modifie un évènement ayant eu lieu pour ensuite \nimaginer les différentes conséquences possibles"
+            ],
+            "guid": "w1a0Di4*Au",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Xénophobie",
+                "Hostilité de principe envers les étrangers, ce qui vient de l'étranger, plus précisément à l'égard d'un groupe de personnes ou d'un individu considéré comme étranger à son propre groupe"
+            ],
+            "guid": "EXDa$5`bGY",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": []
         }

@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#notetype column:1
+Basic	-500 à -300	Classicisme antique — Fondements de la tragédie, de l'épopée, de la rhétorique. Auteurs : Homère, Sophocle, Aristote, Virgile
+Basic	XIe–XIIIe siècle	Littérature médiévale — Textes religieux, épopées chevaleresques et poésie courtoise. Auteurs : Chrétien de Troyes, Rutebeuf, Marie de France
+Basic	XVe siècle	Prérenaissance — Premiers signes du retour à l’Antiquité, affirmation du moi. Auteurs : François Villon
+Basic	XVIe siècle	Humanisme — Redécouverte des textes antiques, foi dans l’homme et l’éducation. Auteurs : Montaigne, Rabelais, Érasme
+Basic	Fin XVIe–XVIIe siècle	Baroque — Mouvement artistique et littéraire valorisant le mouvement, la métamorphose et l’exubérance. Auteurs/Artistes : d’Aubigné, Rubens, Caravage
+Basic	XVIIe siècle	Classicisme — Recherche de l’équilibre, des règles et de la clarté dans l’art. Auteurs : Racine, Molière, La Fontaine
+Basic	XVIIe siècle	Préciosité — Raffinement du langage, amour idéalisé, salons littéraires. Auteurs : Mme de Scudéry, Mme de La Fayette
+Basic	XVIIIe siècle	Lumières — Mouvement philosophique défendant raison, liberté, progrès. Auteurs : Voltaire, Rousseau, Montesquieu, Diderot
+Basic	1800–1850	Romantisme — Exaltation du moi, du rêve, de la nature, du mal-être. Auteurs : Hugo, Lamartine, Chateaubriand, Musset
+Basic	1830–1870	Réalisme — Représentation fidèle de la société et du quotidien. Auteurs : Balzac, Flaubert, Maupassant
+Basic	1870–1890	Naturalisme — Réalisme influencé par les sciences et l’expérimentation. Auteurs : Zola, Huysmans, Maupassant
+Basic	1880–1896	Symbolisme — Mouvement poétique qui privilégie mystère, musicalité, symboles. Auteurs : Verlaine, Rimbaud, Mallarmé
+Basic	Fin XIXe siècle	Décadentisme — Recherche de l’art pur, déclin des valeurs, pessimisme. Auteurs : Huysmans, Verlaine
+Basic	1850–1900	Impressionnisme — Mouvement pictural capturant les effets de lumière et l’instant. Artistes : Monet, Renoir, Degas
+Basic	1905–1914	Fauvisme — Couleurs vives, formes libres et expressives. Artistes : Matisse, Derain
+Basic	1907–1914	Cubisme — Déconstruction des formes, perspectives multiples. Artistes : Picasso, Braque
+Basic	1916–1925	Dadaïsme — Mouvement de révolte absurde et anarchique contre l’art bourgeois. Artistes : Duchamp, Tzara
+Basic	1924–1945	Surréalisme — Exploration de l’inconscient, des rêves, refus de la logique. Auteurs/Artistes : Breton, Dalí, Aragon
+Basic	1930–1950	Existentialisme — Pensée de la liberté, de l’absurde, de l’engagement. Auteurs : Sartre, Camus, Simone de Beauvoir
+Basic	1950–1970	Nouveau Roman — Refus des conventions narratives, focalisation sur la forme. Auteurs : Robbe-Grillet, Sarraute, Butor
+Basic	1960–1980	Pop Art — Réutilisation d’éléments de la culture populaire et publicitaire. Artistes : Warhol, Lichtenstein
+Basic	1980–2000	Postmodernisme — Mélange des styles, rejet des grands récits, ironie. Auteurs : Eco, Lyotard, Deleuze
+Basic	1980–2000	Littérature de l’intime — Autofiction, introspection, journal personnel. Auteurs : Annie Ernaux, Christine Angot
+Basic	Fin XXe siècle	Littérature engagée — L’auteur prend position sur des sujets moraux, politiques. Auteurs : Sartre, Camus, Césaire
+Basic	1990–2020	Postcolonialisme — Questionnement de l’héritage colonial, de l’identité. Auteurs : Chamoiseau, Condé, Slimani
+Basic	XXIe siècle	Littérature contemporaine — Réflexion sur le monde actuel, formes hybrides. Auteurs : Maylis de Kerangal, Laurent Gaudé, Delphine de Vigan
+
